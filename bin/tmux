@@ -1,0 +1,2 @@
+#!/bin/bash
+exec /opt/local/bin/tmux -f "$XDG_CONFIG_HOME/tmux/config" "$@"

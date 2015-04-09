@@ -1,0 +1,2 @@
+#!/bin/bash
+exec /opt/local/bin/mpdscribble --conf "$XDG_CONFIG_HOME/mpdscribble/config" $@

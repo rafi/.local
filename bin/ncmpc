@@ -1,0 +1,2 @@
+#!/bin/bash
+exec /usr/bin/ncmpc -f "$XDG_CONFIG_HOME/ncmpc/config" -k "$XDG_CONFIG_HOME/ncmpc/keys" $@

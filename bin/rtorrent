@@ -1,0 +1,3 @@
+#!/bin/sh
+
+/usr/bin/rtorrent -n -o import=$XDG_CONFIG_HOME/rtorrent/config
